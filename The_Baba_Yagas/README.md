@@ -1,4 +1,4 @@
-# DocFox 🦊
+# DocFox
 **Team: The_Baba_Yagas**
 
 > AI-Powered Document Intelligence Platform - Your Personal AI Study & Research Companion
@@ -8,61 +8,61 @@
 
 ---
 
-## 💡 Project Idea
+## Project Idea
 
 DocFox is an **AI-powered document intelligence platform** that transforms how students and researchers interact with their documents. Inspired by NotebookLM, it goes beyond simple document viewing to offer:
 
-- 🤖 **AI Chat Assistant** - Ask questions about your documents with RAG-powered responses
-- 🎙️ **Audio Podcasts** - Auto-generate 5-8 minute audio summaries from any document
-- 🎬 **Visual Presentations** - Create slide decks automatically from document content
-- 🧠 **Knowledge Graphs** - Visualize concepts and relationships as interactive mindmaps
-- 📝 **Smart Note-taking** - Integrated Markdown editor with auto-save
-- 🎓 **Quiz System** - Generate quizzes and flashcards for active learning
-- 🌐 **Web Integration** - Scrape web content and find relevant YouTube videos
+- **AI Chat Assistant** - Ask questions about your documents with RAG-powered responses
+- **Audio Podcasts** - Auto-generate 5-8 minute audio summaries from any document
+- **Visual Presentations** - Create slide decks automatically from document content
+- **Knowledge Graphs** - Visualize concepts and relationships as interactive mindmaps
+- **Smart Note-taking** - Integrated Markdown editor with auto-save
+- **Quiz System** - Generate quizzes and flashcards for active learning
+- **Web Integration** - Scrape web content and find relevant YouTube videos
 
 **Perfect for:** Students preparing for exams, researchers analyzing papers, professionals digesting reports, and anyone who wants to learn smarter, not harder!
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 📚 **Document Management**
+### **Document Management**
 - Multi-format support (PDF, Web URLs)
 - Smart document chunking for better AI context
 - Organize documents into notebooks by topic/project
 - Vector search with FAISS + Sentence Transformers
 
-### 🤖 **AI Assistant (Powered by Groq LLaMA 3.3-70B)**
+### **AI Assistant (Powered by Groq LLaMA 3.3-70B)**
 - Context-aware chat using Retrieval-Augmented Generation (RAG)
 - Streaming real-time responses
 - Persistent chat history
 - Automatically retrieves relevant document chunks
 
-### 🎙️ **Audio Podcast Generation**
+### **Audio Podcast Generation**
 - Generates engaging 5-8 minute audio podcasts from documents
 - Natural-sounding narration using Edge TTS (Jenny Neural voice)
 - AI-generated scripts with timestamps
 - Download as MP3 + clickable navigation
 
-### 🎬 **Visual Podcast (Slide Presentations)**
+### **Visual Podcast (Slide Presentations)**
 - Auto-generate professional presentation slides
 - Custom templates with image backgrounds
 - AI-extracted key takeaways and bullet points
 - Export-ready high-quality PNG slides
 
-### 🌐 **Web & Content Features**
+### **Web & Content Features**
 - Web scraping with Firecrawl API
 - YouTube video search integration (Serper API)
 - Interactive mindmap/knowledge graph generation
 - Auto-generate HTML websites from document content
 
-### 🎓 **Learning Tools**
+### **Learning Tools**
 - AI-generated flashcards for active recall
 - Quiz generation with multiple choice questions
 - Spaced repetition support
 - Progress tracking
 
-### 📝 **Notebook Interface**
+### **Notebook Interface**
 - Clean, minimal UI inspired by NotebookLM
 - Markdown editor with syntax highlighting
 - Dark/Light mode toggle
@@ -71,7 +71,7 @@ DocFox is an **AI-powered document intelligence platform** that transforms how s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend**
 - **React 19** - Modern UI with hooks and context
@@ -110,7 +110,7 @@ DocFox is an **AI-powered document intelligence platform** that transforms how s
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### **Prerequisites**
 - Node.js 16+ (for frontend)
@@ -173,7 +173,7 @@ http://localhost:3000
 
 ---
 
-## 📖 How to Use
+## How to Use
 
 ### **1. Create a Notebook**
 - Click "New Notebook" in the sidebar
@@ -202,7 +202,7 @@ http://localhost:3000
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 1. **Students** - Study for exams with AI-generated quizzes, flashcards, and audio summaries
 2. **Researchers** - Quickly analyze multiple papers and extract key insights
@@ -212,7 +212,7 @@ http://localhost:3000
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 The_Baba_Yagas/
@@ -259,7 +259,7 @@ The_Baba_Yagas/
 
 ---
 
-## 🌟 What Makes DocFox Special?
+## What Makes DocFox Special?
 
 - **All-in-One Solution** - No need to juggle multiple apps for different tasks
 - **Offline-First** - Works with local storage, your data stays private
@@ -270,7 +270,7 @@ The_Baba_Yagas/
 
 ---
 
-## 🚧 Future Enhancements
+## Future Enhancements
 
 - [ ] Multi-language support
 - [ ] Collaborative notebooks
@@ -283,19 +283,19 @@ The_Baba_Yagas/
 
 ---
 
-## 👥 Team: The_Baba_Yagas
+## Team: The_Baba_Yagas
 
-Built with ❤️ for **Repogenesis 2025** - Open Innovation Track
+Built for **Repogenesis 2025** - Open Innovation Track
 
 ---
 
-## 📄 License
+## License
 
 This project is created for educational purposes as part of the Repogenesis hackathon.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **BMSCE IEEE CS** for organizing Repogenesis
 - **Groq** for lightning-fast AI inference
@@ -304,4 +304,4 @@ This project is created for educational purposes as part of the Repogenesis hack
 
 ---
 
-**Happy Learning! 📚🦊**
+**Happy Learning!**
